@@ -196,7 +196,7 @@ const HomeScreen = ({ navigation }: TabsStackScreenProps<"Home">) => {
                         fontWeight: "600",
                         color: colors.text,
                       }}>
-                      PUMA Everyday Mussle
+                      PUMA Everyday Mussel
                     </Text>
 
                     <View
